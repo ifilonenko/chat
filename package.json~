@@ -27,7 +27,7 @@
     "bundleDependencies": [],
 
     "scripts": { 
-        "start": "node server.js --websocket-port=8000 --log-level=3" 
+        "start": "node server.js --websocket-port=8000 --log-level=1" 
     },
 
     "private": true,
